@@ -177,7 +177,7 @@ To ignore files that you don't want to be tracked or added to the staging area, 
 
 Inside of that file, you can list all the file and folder names that you definitely do not want to track (each ignored file and folder should go to a new line inside the **.gitignore** file).
 
-You can read an article about ignoring files [on this link](https://help.github.com/en/articles/ignoring-files).
+You can read an article about ignoring files [on this link](https://github.com/RaghuHemadri/Git-Introduction/blob/main/gitignore.md).
 
 5\. Branches
 ============
